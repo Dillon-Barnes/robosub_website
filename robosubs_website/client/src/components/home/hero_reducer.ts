@@ -6,7 +6,7 @@ export const initialState = {
     hero_bt3 : 'unfilled'
 }
 
-export function reducer(state, action: {type: number}) {
+export function reducer(_: any, action: {type: number}) {
     switch (action.type) {
         case 1:
             return {

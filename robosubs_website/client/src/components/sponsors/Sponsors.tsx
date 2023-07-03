@@ -1,4 +1,4 @@
-import React, {useReducer, useRef} from 'react'
+import React from 'react'
 import Navbar from "../navbar/Navbar.tsx";
 import Footer from "../footer/Footer.tsx";
 import sponsorsList from "../sponsors/sponsors_list.ts";

@@ -1,5 +1,4 @@
 import React from 'react'
-import { useEffect, useState } from 'react'
 import './members.css'
 import Navbar from "../navbar/Navbar.tsx";
 import Footer from "../footer/Footer.tsx";

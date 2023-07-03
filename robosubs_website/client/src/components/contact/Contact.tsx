@@ -16,7 +16,7 @@ const Contact: React.FC = () => {
 
     const form = useRef<HTMLFormElement>(null);
 
-    const handleSubmit = (e : any) => {
+    const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
         e.preventDefault();
 
         setShowSend('sendMessage')

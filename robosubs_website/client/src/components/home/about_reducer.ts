@@ -14,7 +14,7 @@ export const initialState = {
     software_infrastructure_btn: plus_rotate_0
 }
 
-export function reducer(state, action: {type: number}) {
+export function reducer(_: any, action: {type: number}) {
     switch (action.type) {
         case 1:
             return {
