@@ -53,7 +53,7 @@ const Navbar: React.FC = () => {
       <div className='menu_navbar'>
         <div className={ navbar } id='menu_navbar'>
           <div className='logo_container'>
-          <Link to="/">  <img className='logo_image' src="../../../public/favicon_black.png"/> </Link>
+          <Link to="/">  <img className='logo_image' src="../../../favicon_black.png"/> </Link>
           </div>
           <div className='rso_title_container'>
             <h1>ILLINI ROBOSUB</h1>
