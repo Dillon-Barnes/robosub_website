@@ -23,6 +23,7 @@
 .menu_closed {
     width: 45vw;
     height: 100vh;
+    max-width: 875px;
     background-color: rgb(23, 23, 23);
     position: fixed;
     overflow: hidden;
@@ -30,22 +31,46 @@
     left: 100vw;
     z-index: 5;
 }
+/* Desktop Menu*/
 .menu_expanded {
     width: 45vw;
     height: 100vh;
+    max-width: 420px;
     background-color: rgb(23, 23, 23);
     position: fixed;
     overflow: hidden;
     top: 0;
     left: 100vw;
-    animation: slide 2.5s forwards;
+    transform: translateX(0);
+    animation: slide1 1.5s forwards;
     z-index: 5;
 }
-@keyframes slide {
+@keyframes slide1 {
     100% {
-        left: 55vw
-    }  
+        transform: translateX(-100%);
+    }
 }
+/* Desktop View Menu Close*/
+.menu_closed_2 {
+    width: 45vw;
+    height: 100vh;
+    max-width: 420px;
+    background-color: rgb(23, 23, 23);
+    position: fixed;
+    overflow: hidden;
+    top: 0;
+    left: 100vw;
+    transform: translateX(-100%);
+    animation: slide2 1.5s forwards;
+    z-index: 5;
+}
+
+@keyframes slide2 {
+    100% {
+        transform: translateX(0); 
+    }
+}
+/* Phone View Menu*/
 .menu_expanded_2 {
     width: 100vw;
     height: 100vh;
@@ -54,7 +79,7 @@
     overflow: hidden;
     top: 0;
     left: 100vw;
-    animation: slide3 2.5s forwards;
+    animation: slide3 1s forwards;
     z-index: 5;
 }
 @keyframes slide3 {
@@ -62,6 +87,7 @@
         left: 0vw
     }  
 }
+/* Phone View Menu Close*/
 .menu_closed_3 {
     width: 100vw;
     height: 100vh;
@@ -70,26 +96,10 @@
     overflow: hidden;
     top: 0;
     left: 0vw;
-    animation: slide4 2.5s forwards;
+    animation: slide4 1s forwards;
     z-index: 5;
 }
 @keyframes slide4 {
-    100% {
-        left: 100vw
-    }  
-}
-.menu_closed_2 {
-    width: 45vw;
-    height: 100vh;
-    background-color: rgb(23, 23, 23);
-    position: fixed;
-    overflow: hidden;
-    top: 0;
-    left: 55vw;
-    animation: slide2 2.5s forwards;
-    z-index: 5;
-}
-@keyframes slide2 {
     100% {
         left: 100vw
     }  
