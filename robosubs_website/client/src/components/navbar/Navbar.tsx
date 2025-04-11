@@ -78,7 +78,7 @@ const Navbar: React.FC = () => {
               <Link className='menu_option_val' to='/'><h3>01</h3><h2>HOME</h2></Link>
               <Link className='menu_option_val' to='/robots'><h3>02</h3><h2>ROBOTS</h2></Link>
               <Link className='menu_option_val' to='/sponsors'><h3>03</h3><h2>SPONSORS</h2></Link>
-              <Link className='menu_option_val' to='/members'><h3>04</h3><h2>MEMBER</h2></Link>
+              <Link className='menu_option_val' to='/members'><h3>04</h3><h2>MEMBERS</h2></Link>
               <a className='menu_option_val' href='https://wiki.illinirobosub.com'><h3>05</h3><h2>DOCS</h2></a>
               <Link className='menu_option_val' to='/contact'><h3>06</h3><h2>CONTACT</h2></Link>
             </div>

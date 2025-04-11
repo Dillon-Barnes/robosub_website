@@ -42,3 +42,4 @@ export const image_style_software_infrastructures = {
     backgroundRepeat: "no-repeat",
     border: "none"
 }
+
