@@ -65,6 +65,8 @@
     height: 240px;
     overflow-y: hidden;
     opacity: 0;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .members_cards:hover p {
     opacity: 100;
@@ -111,6 +113,14 @@
     font-size: 125px;
     font-weight: 400;
     margin-top: 150px;
+    margin-bottom: 40px;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 75px;
+    font-weight: 400;
+    margin-top: 40px;
     margin-bottom: 40px;
 }
 

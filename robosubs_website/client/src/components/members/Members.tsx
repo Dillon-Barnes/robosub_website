@@ -2,7 +2,7 @@ import React from 'react'
 import './members.css'
 import Navbar from "../navbar/Navbar.tsx";
 import Footer from "../footer/Footer.tsx";
-import currentMembers from './currentMembers.ts';
+import {currentMembers, formerMembers} from './memberData.ts';
 
 
 // Card Component "gets rid of that any error
@@ -24,7 +24,11 @@ const MembersCards: React.FC<Props> = ({
    Contact
 }) => {
 
-    // React code goes here
+    // Individual member card
+    // TODO:
+    // - Sort cards by team lead, then by last name alphabetically
+    // ? Pull linkedin profile pictures directly
+    // - Add character limit
     return (
         <>
             <div className='members_cards'>
@@ -68,9 +72,10 @@ const Members: React.FC = () => {
               }
               </div>
               <h1 className='title'>Previous Members</h1>
+              <h2 className='subtitle'>Pre-2024</h2>
               <div className='Only_Cards'>
               {
-                  currentMembers.map((val) => {
+                  formerMembers.map((val) => {
                       console.log(val.Name)
                       if (val.Status === "Previous") {
                           return (
