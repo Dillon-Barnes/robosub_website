@@ -27,7 +27,7 @@ export const currentMembers = [
         Description: "Electrical Team Captain '23 '24<br />",
         Contact: {
             Email: "knang2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/krish-nangia-uiuc/",
+            Linkedin: "https://www.linkedin.com/in/jacklavin/",
             LinkedinImage: "../../../members/Jack.jpeg"
         },
         Status: "Current"
@@ -38,7 +38,7 @@ export const currentMembers = [
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "lohitm2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/lohit-muralidharan-9160bb197/",
+            Linkedin: "https://www.linkedin.com/in/dillon-k-barnes/",
             LinkedinImage: "../../../members/Dillon.jpeg"
         },
         Status: "Current"
@@ -49,7 +49,7 @@ export const currentMembers = [
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "nasymjk2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/nasymkushner/",
+            Linkedin: "https://www.linkedin.com/in/martinxu1/",
             LinkedinImage: "../../../members/Martin.jpeg"
         },
         Status: "Current"
@@ -60,7 +60,7 @@ export const currentMembers = [
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "pn17@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/praveennatarajan13/",
+            Linkedin: "https://www.linkedin.com/in/eric-zheng55/",
             LinkedinImage: "../../../members/Eric.jpeg"
         },
         Status: "Current"
@@ -82,7 +82,7 @@ export const currentMembers = [
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "vedeti2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/ved-eti/",
+            Linkedin: "https://www.linkedin.com/in/ananth-ramaswamy-409547290/",
             LinkedinImage: "../../../members/Ananth.jpeg"
         },
         Status: "Current"
@@ -93,7 +93,7 @@ export const currentMembers = [
         Description: "Autonomy Member '24",
         Contact: {
             Email: "vpal2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            Linkedin: "https://www.linkedin.com/in/afifmohamedvavanan/",
             LinkedinImage: "../../../members/Afif.jpeg"
         },
         Status: "Current"
@@ -104,7 +104,7 @@ export const currentMembers = [
         Description: "Autonomy Member '24",
         Contact: {
             Email: "vpal2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            Linkedin: "https://www.linkedin.com/in/henry-goldin/",
             LinkedinImage: "../../../members/Henry.jpeg"
         },
         Status: "Current"
@@ -115,7 +115,7 @@ export const currentMembers = [
         Description: "Electrical Member '24",
         Contact: {
             Email: "vpal2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            Linkedin: "https://www.linkedin.com/in/mia-fang-a786ba230/",
             LinkedinImage: "../../../members/Mia.jpeg"
         },
         Status: "Current"
@@ -126,7 +126,7 @@ export const currentMembers = [
         Description: "Autonomy Member '24",
         Contact: {
             Email: "vpal2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            Linkedin: "https://www.linkedin.com/in/sanjiv-sainathan/",
             LinkedinImage: "../../../members/Sanjiv.jpeg"
         },
         Status: "Current"
@@ -137,7 +137,7 @@ export const currentMembers = [
         Description: "Electrical Member '24",
         Contact: {
             Email: "vpal2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            Linkedin: "https://www.linkedin.com/in/jinhongli123/",
             LinkedinImage: "../../../members/Jinhong.jpeg"
         },
         Status: "Current"
@@ -148,7 +148,7 @@ export const currentMembers = [
         Description: "Electrical Member '24",
         Contact: {
             Email: "vpal2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            Linkedin: "https://www.linkedin.com/in/sam-geisler-004373327/",
             LinkedinImage: "../../../members/Sam.jpg"
         },
         Status: "Current"
