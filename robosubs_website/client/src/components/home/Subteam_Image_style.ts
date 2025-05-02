@@ -1,5 +1,4 @@
 export const image_style_mechanical = {
-    marginTop: "10px",
     height: "95%",
     width: "95%",
     borderRadius: "20px",
@@ -10,7 +9,6 @@ export const image_style_mechanical = {
     border: "none"
 }
 export const image_style_electrical = {
-    marginTop: "10px",
     height: "95%",
     width: "95%",
     borderRadius: "20px",
@@ -21,7 +19,6 @@ export const image_style_electrical = {
     border: "none"
 }
 export const image_style_software = {
-    marginTop: "10px",
     height: "95%",
     width: "95%",
     borderRadius: "20px",
@@ -32,7 +29,6 @@ export const image_style_software = {
     border: "none"
 }
 export const image_style_software_infrastructures = {
-    marginTop: "10px",
     height: "95%",
     width: "95%",
     borderRadius: "20px",
@@ -42,4 +38,6 @@ export const image_style_software_infrastructures = {
     backgroundRepeat: "no-repeat",
     border: "none"
 }
+
+
 
