@@ -32,7 +32,8 @@ const MembersCards: React.FC<Props> = ({
     return (
         <>
             <div className='members_cards'>
-                <p>{Description}</p>
+                
+            <p dangerouslySetInnerHTML={{ __html: Description }}></p>
                 <img id='Linkedin_Image' src={Contact.LinkedinImage}/>
                 <div className='members_cards_container'>
                     <h2>{Name}</h2>

@@ -2,110 +2,154 @@ export const currentMembers = [
     {
         Name: "Esther Doran",
         Position: [ "Team Lead", "Autonomy" ],
-        Description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        Description: "Autonomy Team Captain '24<br />Autonomy Team Member '23, '24",
         Contact: {
             Email: "azarcon3@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/rbazarcon/",
-            LinkedinImage: "../../../members/robert.jpg"
+            Linkedin: "https://www.linkedin.com/in/esther-doran-499425278/",
+            LinkedinImage: "../../../members/Esther.jpeg"
         },
         Status: "Current"
     },
     {
-        Name: "Kevin Gerard",
-        Position: ["Electrical"],
-        Description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+        Name: "Jordan Westphal",
+        Position: ["Team Lead", "Mechanical"],
+        Description: "Mechanical Team Captain '23' 24<br />",
         Contact: {
             Email: "kgerard2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/kevinegerard/",
-            LinkedinImage: "../../../members/kevin.jpg"
+            Linkedin: "https://www.linkedin.com/in/jordan-westphal-509591278/",
+            LinkedinImage: "../../../members/Jordan.jpeg"
         },
         Status: "Current"
     },
     {
-        Name: "Krish Nangia",
-        Position: ["Autonomy"],
-        Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
+        Name: "Jack Lavin",
+        Position: ["Team Lead", "Electrical"],
+        Description: "Electrical Team Captain '23 '24<br />",
         Contact: {
             Email: "knang2@illinois.edu",
             Linkedin: "https://www.linkedin.com/in/krish-nangia-uiuc/",
-            LinkedinImage: "../../../members/krish.jpg"
+            LinkedinImage: "../../../members/Jack.jpeg"
         },
         Status: "Current"
     },
     {
-        Name: "Lohit Muralidharan",
-        Position: ["Team Lead", "Software Infrastructure"],
+        Name: "Dillon Barnes",
+        Position: ["RoboSub Captain", "Autonomy"],
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "lohitm2@illinois.edu",
             Linkedin: "https://www.linkedin.com/in/lohit-muralidharan-9160bb197/",
-            LinkedinImage: "../../../members/lohit.webp"
+            LinkedinImage: "../../../members/Dillon.jpeg"
         },
         Status: "Current"
     },
     {
-        Name: "Nasym Kushner",
-        Position: ["Team Lead", "Mechanical"],
+        Name: "Martin Xu",
+        Position: ["Autonomy"],
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "nasymjk2@illinois.edu",
             Linkedin: "https://www.linkedin.com/in/nasymkushner/",
-            LinkedinImage: "../../../members/nasym.jpg"
+            LinkedinImage: "../../../members/Martin.jpeg"
         },
         Status: "Current"
     },
     {
-        Name: "Omeed Jamali",
-        Position: ["Electrical"],
-        Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
-        Contact: {
-            Email: "ojama2@illinois.edu",
-            Linkedin: "https://www.linkedin.com/in/omeedjamali/",
-            LinkedinImage: "../../../members/omeed.jpg"
-        },
-        Status: "Current"
-    },
-    {
-        Name: "Praveen Natarajan",
+        Name: "Eric Zheng",
         Position: ["Autonomy"],
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "pn17@illinois.edu",
             Linkedin: "https://www.linkedin.com/in/praveennatarajan13/",
-            LinkedinImage: "../../../members/praveen.jpg"
+            LinkedinImage: "../../../members/Eric.jpeg"
         },
         Status: "Current"
     },
     {
-        Name: "Shiva Malhotra",
-        Position: ["Team Lead", "Electrical", "Software Infrastructure"],
+        Name: "Not Ryan Smith",
+        Position: ["Electrical"],
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "shiva4@illinois.edu",
             Linkedin: "https://www.linkedin.com/in/shiva-malhotra-8b944817b/",
-            LinkedinImage: "../../../members/shiva.jpg"
+            LinkedinImage: "../../../members/FakeRyan.jpeg"
         },
         Status: "Current"
     },
     {
-        Name: "Ved Eti",
-        Position: ["Team Lead", "Electrical"],
+        Name: "Ananth Ramaswarmy",
+        Position: ["Autonomy"],
         Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
         Contact: {
             Email: "vedeti2@illinois.edu",
             Linkedin: "https://www.linkedin.com/in/ved-eti/",
-            LinkedinImage: "../../../members/ved.jpg"
+            LinkedinImage: "../../../members/Ananth.jpeg"
         },
         Status: "Current"
     },
     {
-        Name: "Varun Pal",
+        Name: "Afif Vavanan",
         Position: ["Autonomy"],
-        Description: "Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description Description ",
+        Description: "Autonomy Member '24",
         Contact: {
             Email: "vpal2@illinois.edu",
             Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
-            LinkedinImage: "../../../members/varun.jpg"
+            LinkedinImage: "../../../members/Afif.jpeg"
+        },
+        Status: "Current"
+    },
+    {
+        Name: "Henry Goldin",
+        Position: ["Autonomy"],
+        Description: "Autonomy Member '24",
+        Contact: {
+            Email: "vpal2@illinois.edu",
+            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            LinkedinImage: "../../../members/Henry.jpeg"
+        },
+        Status: "Current"
+    },
+    {
+        Name: "Mia Fang",
+        Position: ["Electrical"],
+        Description: "Electrical Member '24",
+        Contact: {
+            Email: "vpal2@illinois.edu",
+            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            LinkedinImage: "../../../members/Mia.jpeg"
+        },
+        Status: "Current"
+    },
+    {
+        Name: "Sanjiv Sainanthan",
+        Position: ["Autonomy"],
+        Description: "Autonomy Member '24",
+        Contact: {
+            Email: "vpal2@illinois.edu",
+            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            LinkedinImage: "../../../members/Sanjiv.jpeg"
+        },
+        Status: "Current"
+    },
+    {
+        Name: "Jinhong Li",
+        Position: ["Electrical"],
+        Description: "Electrical Member '24",
+        Contact: {
+            Email: "vpal2@illinois.edu",
+            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            LinkedinImage: "../../../members/Jinhong.jpeg"
+        },
+        Status: "Current"
+    },
+    {
+        Name: "Sam Geisler",
+        Position: ["Electrical"],
+        Description: "Electrical Member '24",
+        Contact: {
+            Email: "vpal2@illinois.edu",
+            Linkedin: "https://www.linkedin.com/in/varun-pal-b5766a1a6/",
+            LinkedinImage: "../../../members/Sam.jpg"
         },
         Status: "Current"
     }

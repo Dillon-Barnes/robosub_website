@@ -47,8 +47,9 @@ export const Subteam: React.FC = () => {
                     </div>
                 </div>
             </div>
-            <div>.</div>
-            <div>. </div>
+            <br />
+            <br />
+            <br />
         </div>
     );
 };
