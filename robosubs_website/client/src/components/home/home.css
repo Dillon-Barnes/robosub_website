@@ -245,14 +245,14 @@
   
   .subteam_image_container {
     display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    width: 100%; /* Allow the container to take up full width */
-    max-width: 300px; /* Optional: Restrict the maximum width */
+    justify-content: center; 
+    align-items: center; 
+    width: 100%; 
+    max-width: 35%;
     height: auto;
     
 
-    min-height: 300px;
+    min-height: 400px;
   }
   
   .subteam_text_container {
@@ -274,28 +274,6 @@
     width: 100%;
     height: 100%;
     display: flex;
-}
-.dropdown_header_container {
-    width: 50%;
-    height: 100%;
-}
-.dropdown_header_container p {
-    text-align: left;
-    font-size: 30px;
-}
-.dropdown_icon_container {
-    width: 50%;
-    height: 100%;
-}
-.dropdown_icon_container p {
-    text-align: right;
-    font-size: 20px;
-    transform: translateY(10px);
-}
-.dropdown_image {
-    height: 665.8px;
-    width: 550px;
-    border-top: 0.25px solid black
 }
 .Team_description {
     width: 100vw;

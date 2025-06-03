@@ -1,6 +1,6 @@
 const allRobots = [
     {
-        Name: 'ROBOT NAME',
+        Name: 'Box',
         Link: 'Link',
         Image: '../../../sub_side_blank.png'
     },
